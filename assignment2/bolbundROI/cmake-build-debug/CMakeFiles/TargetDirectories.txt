@@ -1,0 +1,3 @@
+/home/ming/git_yummy/SPTraining-VisionGroup/assignment2/bolbundROI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ming/git_yummy/SPTraining-VisionGroup/assignment2/bolbundROI/cmake-build-debug/CMakeFiles/Opencv_test.dir
+/home/ming/git_yummy/SPTraining-VisionGroup/assignment2/bolbundROI/cmake-build-debug/CMakeFiles/edit_cache.dir
